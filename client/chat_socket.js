@@ -1,5 +1,5 @@
 const socket = io("http://localhost:3000")
-io.set
+
 const message = document.getElementById('message');
 const messages = document.getElementById('messages');
 
